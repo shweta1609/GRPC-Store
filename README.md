@@ -65,7 +65,3 @@ For GRPC:
 
 For threadpool:
 1. https://www.youtube.com/watch?v=eWTGtp3HXiw
-
-# Team Members
-Sameer B Chavan
-Shweta Singhal
