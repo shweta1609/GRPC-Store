@@ -1,0 +1,73 @@
+
+
+Query id: 0, product: book1 is -->  (price: 0, vendor_id: Vendor_localhost:50055) (price: 34, vendor_id: Vendor_localhost:50051) (price: 62, vendor_id: Vendor_localhost:50053) (price: 75, vendor_id: Vendor_localhost:50052) (price: 81, vendor_id: Vendor_localhost:50054) 
+
+Query id: 1, product: trimmer1 is -->  (price: 3, vendor_id: Vendor_localhost:50055) (price: 10, vendor_id: Vendor_localhost:50052) (price: 32, vendor_id: Vendor_localhost:50051) (price: 27, vendor_id: Vendor_localhost:50053) (price: 90, vendor_id: Vendor_localhost:50054) 
+
+Query id: 2, product: deodrant1 is -->  (price: 11, vendor_id: Vendor_localhost:50055) (price: 44, vendor_id: Vendor_localhost:50052) (price: 14, vendor_id: Vendor_localhost:50051) (price: 65, vendor_id: Vendor_localhost:50053) (price: 5, vendor_id: Vendor_localhost:50054) 
+
+Query id: 3, product: bike1 is -->  (price: 2, vendor_id: Vendor_localhost:50051) (price: 20, vendor_id: Vendor_localhost:50053) (price: 54, vendor_id: Vendor_localhost:50054) (price: 51, vendor_id: Vendor_localhost:50055) (price: 63, vendor_id: Vendor_localhost:50052) 
+
+Query id: 4, product: bag1 is -->  (price: 67, vendor_id: Vendor_localhost:50051) (price: 3, vendor_id: Vendor_localhost:50053) (price: 42, vendor_id: Vendor_localhost:50055) (price: 84, vendor_id: Vendor_localhost:50052) (price: 59, vendor_id: Vendor_localhost:50054) 
+
+Query id: 5, product: laptop1 is -->  (price: 35, vendor_id: Vendor_localhost:50051) (price: 64, vendor_id: Vendor_localhost:50052) (price: 73, vendor_id: Vendor_localhost:50053) (price: 81, vendor_id: Vendor_localhost:50055) (price: 1, vendor_id: Vendor_localhost:50054) 
+
+Query id: 6, product: mobile1 is -->  (price: 83, vendor_id: Vendor_localhost:50051) (price: 86, vendor_id: Vendor_localhost:50053) (price: 92, vendor_id: Vendor_localhost:50054) (price: 72, vendor_id: Vendor_localhost:50055) (price: 57, vendor_id: Vendor_localhost:50052) 
+
+Query id: 7, product: chair1 is -->  (price: 90, vendor_id: Vendor_localhost:50051) (price: 44, vendor_id: Vendor_localhost:50053) (price: 49, vendor_id: Vendor_localhost:50055) (price: 28, vendor_id: Vendor_localhost:50052) (price: 69, vendor_id: Vendor_localhost:50054) 
+
+Query id: 8, product: table1 is -->  (price: 86, vendor_id: Vendor_localhost:50051) (price: 47, vendor_id: Vendor_localhost:50054) (price: 98, vendor_id: Vendor_localhost:50053) (price: 35, vendor_id: Vendor_localhost:50055) (price: 97, vendor_id: Vendor_localhost:50052) 
+
+Query id: 9, product: book2 is -->  (price: 71, vendor_id: Vendor_localhost:50054) (price: 48, vendor_id: Vendor_localhost:50055) (price: 90, vendor_id: Vendor_localhost:50051) (price: 73, vendor_id: Vendor_localhost:50052) (price: 77, vendor_id: Vendor_localhost:50053) 
+
+Query id: 10, product: trimmer2 is -->  (price: 69, vendor_id: Vendor_localhost:50051) (price: 77, vendor_id: Vendor_localhost:50052) (price: 40, vendor_id: Vendor_localhost:50055) (price: 47, vendor_id: Vendor_localhost:50054) (price: 28, vendor_id: Vendor_localhost:50053) 
+
+Query id: 11, product: deodrant2 is -->  (price: 88, vendor_id: Vendor_localhost:50051) (price: 9, vendor_id: Vendor_localhost:50054) (price: 85, vendor_id: Vendor_localhost:50052) (price: 28, vendor_id: Vendor_localhost:50055) (price: 5, vendor_id: Vendor_localhost:50053) 
+
+Query id: 12, product: bike2 is -->  (price: 71, vendor_id: Vendor_localhost:50051) (price: 3, vendor_id: Vendor_localhost:50052) (price: 49, vendor_id: Vendor_localhost:50053) (price: 94, vendor_id: Vendor_localhost:50054) (price: 12, vendor_id: Vendor_localhost:50055) 
+
+Query id: 13, product: bag2 is -->  (price: 30, vendor_id: Vendor_localhost:50051) (price: 2, vendor_id: Vendor_localhost:50052) (price: 31, vendor_id: Vendor_localhost:50053) (price: 83, vendor_id: Vendor_localhost:50055) (price: 93, vendor_id: Vendor_localhost:50054) 
+
+Query id: 14, product: laptop2 is -->  (price: 29, vendor_id: Vendor_localhost:50051) (price: 8, vendor_id: Vendor_localhost:50054) (price: 41, vendor_id: Vendor_localhost:50052) (price: 35, vendor_id: Vendor_localhost:50053) (price: 34, vendor_id: Vendor_localhost:50055) 
+
+Query id: 15, product: mobile2 is -->  (price: 59, vendor_id: Vendor_localhost:50051) (price: 33, vendor_id: Vendor_localhost:50052) (price: 75, vendor_id: Vendor_localhost:50053) (price: 38, vendor_id: Vendor_localhost:50055) (price: 33, vendor_id: Vendor_localhost:50054) 
+
+Query id: 16, product: chair2 is -->  (price: 46, vendor_id: Vendor_localhost:50051) (price: 16, vendor_id: Vendor_localhost:50053) (price: 46, vendor_id: Vendor_localhost:50052) (price: 73, vendor_id: Vendor_localhost:50055) (price: 7, vendor_id: Vendor_localhost:50054) 
+
+Query id: 17, product: table2 is -->  (price: 69, vendor_id: Vendor_localhost:50051) (price: 56, vendor_id: Vendor_localhost:50052) (price: 3, vendor_id: Vendor_localhost:50054) (price: 18, vendor_id: Vendor_localhost:50053) (price: 70, vendor_id: Vendor_localhost:50055) 
+
+Query id: 18, product: book3 is -->  (price: 52, vendor_id: Vendor_localhost:50051) (price: 11, vendor_id: Vendor_localhost:50052) (price: 77, vendor_id: Vendor_localhost:50054) (price: 32, vendor_id: Vendor_localhost:50055) (price: 49, vendor_id: Vendor_localhost:50053) 
+
+Query id: 19, product: trimmer3 is -->  (price: 68, vendor_id: Vendor_localhost:50054) (price: 42, vendor_id: Vendor_localhost:50053) (price: 58, vendor_id: Vendor_localhost:50052) (price: 18, vendor_id: Vendor_localhost:50051) (price: 36, vendor_id: Vendor_localhost:50055) 
+
+Query id: 20, product: deodrant3 is -->  (price: 2, vendor_id: Vendor_localhost:50051) (price: 21, vendor_id: Vendor_localhost:50052) (price: 71, vendor_id: Vendor_localhost:50054) (price: 20, vendor_id: Vendor_localhost:50055) (price: 76, vendor_id: Vendor_localhost:50053) 
+
+Query id: 21, product: bike3 is -->  (price: 16, vendor_id: Vendor_localhost:50052) (price: 96, vendor_id: Vendor_localhost:50051) (price: 89, vendor_id: Vendor_localhost:50053) (price: 80, vendor_id: Vendor_localhost:50054) (price: 86, vendor_id: Vendor_localhost:50055) 
+
+Query id: 22, product: bag3 is -->  (price: 31, vendor_id: Vendor_localhost:50051) (price: 40, vendor_id: Vendor_localhost:50055) (price: 7, vendor_id: Vendor_localhost:50053) (price: 21, vendor_id: Vendor_localhost:50052) (price: 33, vendor_id: Vendor_localhost:50054) 
+
+Query id: 23, product: laptop3 is -->  (price: 51, vendor_id: Vendor_localhost:50052) (price: 27, vendor_id: Vendor_localhost:50054) (price: 36, vendor_id: Vendor_localhost:50055) (price: 22, vendor_id: Vendor_localhost:50051) (price: 93, vendor_id: Vendor_localhost:50053) 
+
+Query id: 24, product: mobile3 is -->  (price: 92, vendor_id: Vendor_localhost:50051) (price: 56, vendor_id: Vendor_localhost:50052) (price: 83, vendor_id: Vendor_localhost:50055) (price: 75, vendor_id: Vendor_localhost:50054) (price: 93, vendor_id: Vendor_localhost:50053) 
+
+Query id: 25, product: chair3 is -->  (price: 32, vendor_id: Vendor_localhost:50051) (price: 22, vendor_id: Vendor_localhost:50052) (price: 63, vendor_id: Vendor_localhost:50053) (price: 27, vendor_id: Vendor_localhost:50055) (price: 39, vendor_id: Vendor_localhost:50054) 
+
+Query id: 26, product: table3 is -->  (price: 65, vendor_id: Vendor_localhost:50051) (price: 35, vendor_id: Vendor_localhost:50052) (price: 24, vendor_id: Vendor_localhost:50053) (price: 55, vendor_id: Vendor_localhost:50055) (price: 47, vendor_id: Vendor_localhost:50054) 
+
+Query id: 27, product: book4 is -->  (price: 9, vendor_id: Vendor_localhost:50052) (price: 48, vendor_id: Vendor_localhost:50051) (price: 80, vendor_id: Vendor_localhost:50055) (price: 26, vendor_id: Vendor_localhost:50054) (price: 26, vendor_id: Vendor_localhost:50053) 
+
+Query id: 28, product: trimmer4 is -->  (price: 87, vendor_id: Vendor_localhost:50055) (price: 56, vendor_id: Vendor_localhost:50051) (price: 97, vendor_id: Vendor_localhost:50053) (price: 58, vendor_id: Vendor_localhost:50054) (price: 73, vendor_id: Vendor_localhost:50052) 
+
+Query id: 29, product: deodrant4 is -->  (price: 99, vendor_id: Vendor_localhost:50051) (price: 50, vendor_id: Vendor_localhost:50053) (price: 73, vendor_id: Vendor_localhost:50054) (price: 31, vendor_id: Vendor_localhost:50055) (price: 29, vendor_id: Vendor_localhost:50052) 
+
+Query id: 30, product: bike4 is -->  (price: 2, vendor_id: Vendor_localhost:50051) (price: 20, vendor_id: Vendor_localhost:50053) (price: 99, vendor_id: Vendor_localhost:50054) (price: 2, vendor_id: Vendor_localhost:50055) (price: 17, vendor_id: Vendor_localhost:50052) 
+
+Query id: 31, product: bag4 is -->  (price: 38, vendor_id: Vendor_localhost:50053) (price: 22, vendor_id: Vendor_localhost:50055) (price: 38, vendor_id: Vendor_localhost:50052) (price: 63, vendor_id: Vendor_localhost:50051) (price: 70, vendor_id: Vendor_localhost:50054) 
+
+Query id: 32, product: laptop4 is -->  (price: 3, vendor_id: Vendor_localhost:50052) (price: 17, vendor_id: Vendor_localhost:50053) (price: 36, vendor_id: Vendor_localhost:50054) (price: 71, vendor_id: Vendor_localhost:50051) (price: 94, vendor_id: Vendor_localhost:50055) 
+
+Query id: 33, product: mobile4 is -->  (price: 78, vendor_id: Vendor_localhost:50052) (price: 69, vendor_id: Vendor_localhost:50051) (price: 76, vendor_id: Vendor_localhost:50053) (price: 33, vendor_id: Vendor_localhost:50055) (price: 84, vendor_id: Vendor_localhost:50054) 
+
+Query id: 34, product: chair4 is -->  (price: 46, vendor_id: Vendor_localhost:50051) (price: 84, vendor_id: Vendor_localhost:50052) (price: 80, vendor_id: Vendor_localhost:50053) (price: 34, vendor_id: Vendor_localhost:50055) (price: 90, vendor_id: Vendor_localhost:50054) 
+
+Query id: 35, product: table4 is -->  (price: 34, vendor_id: Vendor_localhost:50051) (price: 10, vendor_id: Vendor_localhost:50054) (price: 87, vendor_id: Vendor_localhost:50052) (price: 35, vendor_id: Vendor_localhost:50053) (price: 51, vendor_id: Vendor_localhost:50055) 
